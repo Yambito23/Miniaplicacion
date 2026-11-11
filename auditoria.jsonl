@@ -1,0 +1,20 @@
+{"fecha_hora": "2026-11-11T09:04:27-04:00", "usuario": "admin", "accion": "login", "resultado": "exitoso"}
+{"fecha_hora": "2026-11-11T09:05:00-04:00", "usuario": "Admin", "accion": "login", "resultado": "fallido"}
+{"fecha_hora": "2026-11-11T09:05:27-04:00", "usuario": "user", "accion": "login", "resultado": "exitoso"}
+{"fecha_hora": "2026-11-11T09:05:46-04:00", "usuario": "user", "accion": "login", "resultado": "fallido"}
+{"fecha_hora": "2026-11-11T09:06:20-04:00", "usuario": "0", "accion": "login", "resultado": "fallido"}
+{"fecha_hora": "2026-11-11T09:06:24-04:00", "usuario": "sali", "accion": "login", "resultado": "fallido"}
+{"fecha_hora": "2026-11-11T09:06:47-04:00", "usuario": "admin", "accion": "login", "resultado": "exitoso"}
+{"fecha_hora": "2026-11-11T09:06:58-04:00", "usuario": "admin", "accion": "modificar", "resultado": "exitoso", "producto": "P001", "anterior": 20, "nueva": 20}
+{"fecha_hora": "2026-11-11T09:07:31-04:00", "usuario": "user", "accion": "login", "resultado": "exitoso"}
+{"fecha_hora": "2026-11-11T09:07:41-04:00", "usuario": "user", "accion": "modificar", "resultado": "rechazado", "producto": "P001", "motivo": "Permisos insuficientes"}
+{"fecha_hora": "2026-11-11T12:11:07-04:00", "usuario": "admin", "accion": "login", "resultado": "exitoso"}
+{"fecha_hora": "2026-11-11T13:01:13-04:00", "usuario": "Admin", "accion": "login", "resultado": "fallido"}
+{"fecha_hora": "2026-11-11T13:01:38-04:00", "usuario": "admin", "accion": "login", "resultado": "exitoso"}
+{"fecha_hora": "2026-11-11T13:22:31-04:00", "usuario": "admin", "accion": "login", "resultado": "exitoso"}
+{"fecha_hora": "2026-11-11T13:22:46-04:00", "usuario": "admin", "accion": "modificar", "resultado": "exitoso", "producto": "P001", "anterior": 20, "nueva": 20}
+{"fecha_hora": "2026-11-11T13:22:58-04:00", "usuario": "user", "accion": "login", "resultado": "exitoso"}
+{"fecha_hora": "2026-11-11T13:23:04-04:00", "usuario": "user", "accion": "modificar", "resultado": "rechazado", "producto": "P001", "motivo": "Permisos insuficientes"}
+{"fecha_hora": "2026-11-11T13:25:46-04:00", "usuario": "admin", "accion": "login", "resultado": "exitoso"}
+{"fecha_hora": "2026-11-11T13:26:39-04:00", "usuario": "admin", "accion": "login", "resultado": "fallido"}
+{"fecha_hora": "2026-11-11T13:27:39-04:00", "usuario": "MonkeyDLuffy", "accion": "login", "resultado": "fallido"}
